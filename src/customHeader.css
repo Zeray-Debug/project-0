@@ -1,0 +1,14 @@
+.site-header {
+  background:#f9f9f9 ;
+  position: fixed;
+  z-index: 200;
+  width: 100%;
+  padding: 1.875rem;
+  height: 5.1875rem;
+  display: block;
+}
+
+.top-bar-title{
+  flex:o o auto ;
+  margin: .5rem 1rem .5rem 0;
+}
