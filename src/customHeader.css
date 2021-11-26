@@ -8,7 +8,8 @@
   display: block;
 }
 
-.top-bar-title{
+.top-bar-title .top-bar-right .top-bar-left{
   flex:o o auto ;
   margin: .5rem 1rem .5rem 0;
 }
+
